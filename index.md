@@ -1,9 +1,23 @@
-## Welcome to GitHub Pages
+# Junxian HAN
+Master student at Kyoto University   
+lab page
+[Forest Biochemistry](http://www.biomass.kais.kyoto-u.ac.jp/)
 
-You can use the [editor on GitHub](https://github.com/Basidiomycota/Pleurotus.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+email: han.junxian.46f@st.kyoto-u.ac.jp
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education
+### Kyoto University
+Master of Environmental Science ＆ Technology (2020.10 ~ present)  
+lab of Forest Biochemistry  
+Supervised by Professor [Yoichi HONDA](http://www.biomass.kais.kyoto-u.ac.jp/honda/Welcome.html)
 
+### Nanjing Forestry University
+Bachelor of Biotechnology (2016.9 ~ 2020.6)  
+Supervised by Professor [Qiang CHENG](https://linxue.njfu.edu.cn/szdw/fjs/20210329/i207432.html) 
+
+### Wuxi Big Bridge Academy
+Senior high school (2013.9 ~ 2016.6)  
+Junior high school (2010.9 ~ 2013.6)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
