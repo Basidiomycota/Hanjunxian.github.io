@@ -1,10 +1,15 @@
-# Junxian HAN
+# Junxian HAN     韩 浚弦 
 Master student at Kyoto University   
 lab page
 [Forest Biochemistry](http://www.biomass.kais.kyoto-u.ac.jp/)
 
 email: han.junxian.46f@st.kyoto-u.ac.jp
 
+## Research Interest 
+ ·  White rot fungi  
+ ·  lignin degradation  
+ ·  hydrophobin  
+ ·  comparative genomics  
 ## Education
 ### Kyoto University
 Master of Environmental Science ＆ Technology (2020.10 ~ present)  
