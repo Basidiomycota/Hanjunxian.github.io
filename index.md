@@ -1,5 +1,7 @@
-# Junxian HAN     韩 浚弦 ![](/dd.jpg)
-Master student at Kyoto University   
+# Junxian HAN     韩 浚弦  
+![](/2.jpg)  
+I am a Master student at Kyoto University. I have a wide range of interests，including music, animation, football, e-sports and literature. I played the clarinet in the college symphony orchestra. My favourite football club is Bayer04 Leverkusen in the Bundesliga and I am also the fan for the LPL e-sports club —— Royal Never Give up (RNG)  
+
 lab page
 [Forest Biochemistry](http://www.biomass.kais.kyoto-u.ac.jp/)
 
@@ -7,8 +9,8 @@ email: han.junxian.46f@st.kyoto-u.ac.jp
 
 ## Research Interest 
  ·  White rot fungi  
- ·  lignin degradation  
- ·  hydrophobin  
+ ·  elucidation of lignin degradation  
+ ·  hydrophobin functions in Basidiomycete   
  ·  comparative genomics  
 ## Education
 ### Kyoto University
@@ -23,34 +25,10 @@ Supervised by Professor [Qiang CHENG](https://linxue.njfu.edu.cn/szdw/fjs/202103
 ### Wuxi Big Bridge Academy
 Senior high school (2013.9 ~ 2016.6)  
 Junior high school (2010.9 ~ 2013.6)
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Award  
+Monbukagakusho Honors Scholarship for Privately Financed International Students
+(2020.11 ~ 2021.3)  
+Kobayashi Foundation Scholarship (2021.4 ~ present)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Basidiomycota/Pleurotus.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
