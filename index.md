@@ -1,29 +1,24 @@
-# Junxian HAN     韩 浚弦  
+# Junxian HAN     韩 浚弦
+  
 <table border="0">
  <tr>
-  <td width="75%">
+  <td width="60%">
    <p></p>I am a Master student at Kyoto University. I have a wide range of interests，including music, animation, football, e-sports and literature. I played the clarinet in the college symphony orchestra. My favourite football club is Bayer04 Leverkusen in the Bundesliga and I am also the fan for the LPL e-sports club —— Royal Never Give up (RNG)<p></p>  
    
-   <p></p>lab page
-[Forest Biochemistry](http://www.biomass.kais.kyoto-u.ac.jp/)<p></p>  
+   
+   
+   <p></p>lab page [Forest Biochemistry](http://www.biomass.kais.kyoto-u.ac.jp/)<p></p>  
+  
+     
      
    <p></p>email: han.junxian.46f@st.kyoto-u.ac.jp <p></p>
   </td>
-  <td width="25%">
+  <td width="40%">
    <img src="/2.jpg" width="100%">  NJFU Symphony Orchestra
   </td>
  </tr>
  </table>
  
-![](/2.jpg)   
-
-
-I am a Master student at Kyoto University. I have a wide range of interests，including music, animation, football, e-sports and literature. I played the clarinet in the college symphony orchestra. My favourite football club is Bayer04 Leverkusen in the Bundesliga and I am also the fan for the LPL e-sports club —— Royal Never Give up (RNG)  
-
-lab page
-[Forest Biochemistry](http://www.biomass.kais.kyoto-u.ac.jp/)
-
-email: han.junxian.46f@st.kyoto-u.ac.jp
 
   
 ## Research Interest 
