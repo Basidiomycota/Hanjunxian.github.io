@@ -9,11 +9,14 @@ lab page
 
 email: han.junxian.46f@st.kyoto-u.ac.jp
 
+
 ## Research Interest 
  ·  White rot fungi  
  ·  elucidation of lignin degradation  
  ·  hydrophobin functions in Basidiomycete   
  ·  comparative genomics  
+
+
 ## Education
 ### Kyoto University
 Master of Environmental Science ＆ Technology (2020.10 ~ present)  
@@ -27,6 +30,8 @@ Supervised by Professor [Qiang CHENG](https://linxue.njfu.edu.cn/szdw/fjs/202103
 ### Wuxi Big Bridge Academy
 Senior high school (2013.9 ~ 2016.6)  
 Junior high school (2010.9 ~ 2013.6)
+
+
 
 ## Award  
 Monbukagakusho Honors Scholarship for Privately Financed International Students
