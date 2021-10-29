@@ -7,7 +7,7 @@
    
    
    
-   <p></p>lab page [Forest Biochemistry](http://www.biomass.kais.kyoto-u.ac.jp/)<p></p>  
+   <p></p>lab page http://www.biomass.kais.kyoto-u.ac.jp/<p></p>  
   
      
      
