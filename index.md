@@ -37,7 +37,7 @@ Supervised by Professor [Yoichi HONDA](http://www.biomass.kais.kyoto-u.ac.jp/hon
 
 ### Nanjing Forestry University
 Bachelor of Biotechnology (2016-09 ~ 2020-06)  
-Supervised by Professor [Qiang CHENG](https://linxue.njfu.edu.cn/szdw/lmycyzx/js/20210329/i207432.html）
+Supervised by Professor [Qiang CHENG](https://linxue.njfu.edu.cn/szdw/lmycyzx/js/20210329/i207432.html)
 
 ### Wuxi Big Bridge Academy
 Senior high school (2013-09 ~ 2016-06)  
