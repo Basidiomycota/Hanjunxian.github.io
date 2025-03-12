@@ -29,14 +29,21 @@
   
   
 ## Education
-### Kyoto University 京都大学
+### Kyoto University 京都大学 (2022-10 ~ present)    
+PhD in Agriculture
 Graduate School of Agriculture
-Division of Environmental Science ＆ Technology (2020.10 ~ present)  
-lab of Forest Biochemistry  
+Division of Forest and Biomaterial Science 
 Supervised by Professor [Yoichi HONDA](http://www.biomass.kais.kyoto-u.ac.jp/honda/Welcome.html)
 
-### Nanjing Forestry University 南京林業大学
-Bachelor of Biotechnology (2016-09 ~ 2020-06)  
+### Kyoto University 京都大学 (2020-10 ~ 2022-09)    
+Master of Agriculture
+Graduate School of Agriculture
+Division of Environmental Science ＆ Technology 
+Supervised by Professor [Yoichi HONDA](http://www.biomass.kais.kyoto-u.ac.jp/honda/Welcome.html)
+
+### Nanjing Forestry University 南京林業大学  (2016-09 ~ 2020-06) 
+College of Forestry
+Bachelor of Science 
 Supervised by Professor [Qiang CHENG](https://linxue.njfu.edu.cn/szdw/lmycyzx/js/20210329/i207432.html)
 
 ### Wuxi Big Bridge Academy　
@@ -45,9 +52,11 @@ Junior high school (2010-09 ~ 2013-06)
 
 
   
-## Award  
+## Scholoarship ＆ Fellowship   
 Monbukagakusho Honors Scholarship for Privately Financed International Students
-(2020.11 ~ 2021.3)  
-Kobayashi Foundation Scholarship (2021.4 ~ present)
+(2020-11 ~ 2021-03)  
+Kobayashi Foundation Scholarship (2021-04 ~ 2023-03)
+Kyoto University Science and Technology Innovation Creation Fellowship　(2023-04 ~ 2024-03)
+JSPS Research Fellowships for Young Scientists (DC2) (2024-04 ~ present)
 
 
