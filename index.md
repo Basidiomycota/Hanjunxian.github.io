@@ -29,27 +29,27 @@
   
   
 ## Education
-<strong><span style="font-size: 1.8em;">Kyoto University</span></strong> 京都大学  (2022-10 ~ present)  
+<strong><span style="font-size: 1.5em;">Kyoto University</span></strong> 京都大学  (2022-10 ~ present)  
 PhD in Agriculture  
 Graduate School of Agriculture  
 Division of Forest and Biomaterial Science  
 Supervised by Professor <a href="http://www.biomass.kais.kyoto-u.ac.jp/honda/Welcome.html">Yoichi HONDA</a>  
 
 
-<strong><span style="font-size: 1.8em;">Kyoto University</span></strong> 京都大学  (2020-10 ~ 2022-09)  
+<strong><span style="font-size: 1.5em;">Kyoto University</span></strong> 京都大学  (2020-10 ~ 2022-09)  
 Master of Agriculture  
 Graduate School of Agriculture  
 Division of Environmental Science & Technology  
 Supervised by Professor <a href="http://www.biomass.kais.kyoto-u.ac.jp/honda/Welcome.html">Yoichi HONDA</a>  
 
 
-<strong><span style="font-size: 1.8em;">Nanjing Forestry University</span></strong> 南京林業大学  (2016-09 ~ 2020-06)  
+<strong><span style="font-size: 1.5em;">Nanjing Forestry University</span></strong> 南京林業大学  (2016-09 ~ 2020-06)  
 College of Forestry  
 Bachelor of Science  
 Supervised by Professor <a href="https://linxue.njfu.edu.cn/szdw/lmycyzx/js/20210329/i207432.html">Qiang CHENG</a>  
 
 
-<strong><span style="font-size: 1.8em;">Wuxi Big Bridge Academy</span></strong>  
+<strong><span style="font-size: 1.5em;">Wuxi Big Bridge Academy</span></strong>  
 Senior high school (2013-09 ~ 2016-06)  
 Junior high school (2010-09 ~ 2013-06)  
   
